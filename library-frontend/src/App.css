@@ -1,0 +1,19 @@
+/* App.css */
+
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+.header {
+  background-color: #1D4ED8; /* Tailwind blue-600 */
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Main content styling */
+.main-content {
+  padding: 2rem;
+}
